@@ -20,7 +20,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true, // 编译器会将每个文件作为单独的模块来使用
     "noEmit": true, // 当发生错误的时候，编译器不要生成 JavaScript 代码
-    "jsx": "react-jsx" // 允许编译器支持编译 React 代码
+    "jsx": "react" // 允许编译器支持编译 React 代码
   },
   "include": [
     "src"
