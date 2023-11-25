@@ -12,3 +12,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: fenghuangdianzhenti;
+  src: local('fenghuangdianzhenti'), url(./assets/fonts/fenghuangdianzhenti.ttf) format('truetype');
+}
